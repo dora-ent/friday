@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color:greenyellow;
+}
+
+header {
+    margin: 0;
+    padding: 16px;
+    background-color:honeydew;
+    color: grey;
+}
+
+h1 {
+    font-size: 23px;
+    letter-spacing: 2;
+    border-bottom: 2px solid rgb(212, 210, 210);
+    width: 700px;
+}
+
+main {
+    margin: 16px;
+}
+
+.main-title {
+    font-size: 20px;
+    border-bottom: 2px dashed gray;
+}
+
+.nav-item a {
+    color: lightseagreen;
+}
+
+.nav-item a:hover {
+    color: lightyellow;
+}
+
+.contents-item {
+    margin: 0;
+    padding: 16px;
+    border: grey;
+    background-color: honeydew;
+}
+
+.contents-item-title {
+    padding: 0 0 8px 0;
+    font-weight: normal;
+    border-bottom: 2px dotted honeydew;
+}
+
+.contents-item-child {
+    color: lightblue;
+    padding: 16px;
+    background-color: lightgrey;
+}
